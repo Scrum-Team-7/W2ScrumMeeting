@@ -8,7 +8,7 @@ const someObject = { str: "Some text", id: 5 };
 /*
 const teamM = [];
 teamM.push("Makai", "Jesse", "Logan");
-// Jesse contribution I added my name
+// Jesse contribution I added my name - yessir
 console.log(hello, teamM); 
 
 //console.log(hello , myName);
