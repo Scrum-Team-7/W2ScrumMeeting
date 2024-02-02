@@ -9,6 +9,7 @@ const someObject = { str: "Some text", id: 5 };
 const teamM = [];
 teamM.push("Makai", "Jesse", "Logan");
 // Jesse contribution I added my name - yessir
+// Logan contribution - added my name
 console.log(hello, teamM); 
 
 //console.log(hello , myName);
