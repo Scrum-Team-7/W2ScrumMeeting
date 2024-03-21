@@ -1,7 +1,11 @@
-# W2ScrumMeeting
+# To install expo and run the app the FIRST time follow these steps
+[https://byui-cit.atlassian.net/wiki/spaces/CyberSecurity/pages/18448385/Installing+EXPO+and+running+the+STEDI+Mobile+App]
 
-This is my contribution to the w02 assignment scrum meeting - Makai Maetani
+# After installing, to run the app run this command
+`expo start --tunnel`
 
-Logan - I'm very boring
+To do an IOS Testflight build:
 
-Jesse - Just checking in
+`npx eas-cli build --profile production --platform ios`
+
+When the build finishes, open the Transporter app on a Mac to upload to Testflight
